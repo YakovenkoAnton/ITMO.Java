@@ -1,0 +1,6 @@
+http://speedtest.ftp.otenet.gr/files/test1Mb.db test1Mb.db
+http://speedtest.ftp.otenet.gr/files/test100k.db test100k.db
+http://speedtest.ftp.otenet.gr/files/test100k.db test33.db
+http://speedtest.ftp.otenet.gr/files/test1Mb.db test1dfMb.db
+http://speedtest.ftp.otenet.gr/files/test100k.db test1fsdf0k.db
+http://speedtest.ftp.otenet.gr/files/test100k.db testsdf3.db
